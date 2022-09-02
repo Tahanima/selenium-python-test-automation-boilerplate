@@ -1,5 +1,7 @@
 # Selenium Python Test Automation Boilerplate
 
+Ready-to-use UI Test Automation Architecture using Python and Selenium WebDriver.
+
 ## Setup
 
 1. Fork the repository.
